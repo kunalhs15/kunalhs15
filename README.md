@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunalhs15
-- 👀 I’m interested in Tech and Football...
-- 🌱 I’m currently learning Business Analytics at Trinity College Dublin...
+- 👀 I’m interested in Tech and Football.
+- 🌱 I’m currently learning Business Analytics at Trinity College Dublin.
 - ⚡ Fun fact: I'm from Jamaica and I can say my Abc's backwards.
 
 <!---
